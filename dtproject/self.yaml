@@ -1,0 +1,7 @@
+name: "lx-dd-docker-recipe"
+maintainer:
+    name: "Duckietown"
+    email: "info@duckietown.com"
+description: "Recipe for the DD24 Docker Learning Experience"
+version: 0.0.0
+icon: cube
